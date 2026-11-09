@@ -1,0 +1,7 @@
+{
+  "_hinweis": "Wird mit /init passend zum Stack ausgefüllt. Die Factory nutzt diese Befehle in jedem Job.",
+  "install": "",
+  "dev": "",
+  "preview": "",
+  "checks": {}
+}
